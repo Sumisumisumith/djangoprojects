@@ -1,4 +1,4 @@
-# Djangoを用いたwebサイト制作
+# Djangoを用いたブログ制作
 
 <img width="400" height="400" alt="login" src="Web キャプチャ_13-7-2023_162331_127.0.0.1.jpeg">
 
